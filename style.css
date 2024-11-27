@@ -13,6 +13,6 @@ a {
 #contenu + div{
     text-align: right;
 }
-div #right p{
+#contenu + div p {
     font-size: 2em;
 }
