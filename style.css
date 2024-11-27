@@ -10,7 +10,7 @@ a {
 #contenu {
     background-color: lightgray;
 }
-#right{
+#contenu + div{
     text-align: right;
 }
 div #right p{
